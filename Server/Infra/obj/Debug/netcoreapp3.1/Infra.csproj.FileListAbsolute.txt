@@ -1,0 +1,14 @@
+C:\e2e\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\e2e\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\e2e\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\e2e\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\e2e\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\e2e\Server\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\e2e\Server\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\e2e\Server\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\e2e\Server\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\e2e\Server\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\e2e\Server\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\e2e\Server\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+C:\e2e\Server\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
+C:\e2e\Server\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache

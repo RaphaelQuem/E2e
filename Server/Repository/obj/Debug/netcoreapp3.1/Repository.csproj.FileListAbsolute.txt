@@ -1,0 +1,14 @@
+C:\e2e\Server\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\e2e\Server\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\e2e\Server\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\e2e\Server\Repository\bin\Debug\netcoreapp3.1\Infra.dll
+C:\e2e\Server\Repository\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\e2e\Server\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\e2e\Server\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\e2e\Server\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\e2e\Server\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\e2e\Server\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\e2e\Server\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\e2e\Server\Repository\bin\Debug\netcoreapp3.1\Domain.dll
+C:\e2e\Server\Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\e2e\Server\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
